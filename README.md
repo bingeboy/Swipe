@@ -1,4 +1,11 @@
 ## Usage
+
+NOTE: This fork has been extended to accept additional settings.
+
+Currently working on:
+* Taking set width for stage
+* continouse looping with 3 images displayed 
+
 Swipe only needs to follow a simple pattern. Here is an example:
 
 ``` html
