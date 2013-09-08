@@ -65,6 +65,8 @@ Swipe can take an optional second parameter– an object of key/value settings:
 
 - **transitionEnd** Function - runs at the end slide transition.
 
+- **slideWidth** Integer - If this int exists slides will be be to this width.
+
 ### Example
 
 ``` js
